@@ -2,7 +2,9 @@
 name = "hello-wasm"
 version = "0.1.0"
 authors = ["Katsuki <Katsuki_Sato0130@icloud.com>"]
+description = "A sample project with wasm-pack"
 license = "MIT/Apache-2.0"
+repository="https://github.com/K-Sato1995/rust_wasm"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
