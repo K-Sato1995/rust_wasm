@@ -1,3 +1,4 @@
+// Use the lib below to communicate with JS
 use wasm_bindgen::prelude::*;
 
 #[wasm_bindgen]
